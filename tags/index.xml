@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on AMV Archive</title>
+    <link>https://tshrpl.github.io/amv_archive/tags/</link>
+    <description>Recent content in Tags on AMV Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://tshrpl.github.io/amv_archive/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>k-on!</title>
+      <link>https://tshrpl.github.io/amv_archive/tags/k-on/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tshrpl.github.io/amv_archive/tags/k-on/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devilman crybaby</title>
+      <link>https://tshrpl.github.io/amv_archive/tags/devilman-crybaby/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tshrpl.github.io/amv_archive/tags/devilman-crybaby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hinamatsuri</title>
+      <link>https://tshrpl.github.io/amv_archive/tags/hinamatsuri/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tshrpl.github.io/amv_archive/tags/hinamatsuri/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
